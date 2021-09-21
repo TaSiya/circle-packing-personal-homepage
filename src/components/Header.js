@@ -42,6 +42,37 @@ const Header = props => (
             )
           })}
         </p>
+        <ul className="icons">
+            <li>
+              <a
+                target="_blank"
+                href={JSONData.twitter}
+                className="icon fa-twitter"
+              >
+                <span className="label">Twitter</span>
+              </a>
+            </li>
+            <li>
+              <a
+                target="_blank"
+                href={JSONData.github}
+                className="icon fa-github"
+              >
+                <span className="label">GitHub</span>
+              </a>
+            </li>
+            <li>
+              <a
+                target="_blank"
+                href={JSONData.linkedin}
+                className="icon fa-linkedin"
+              >
+                <span className="label">Linkedin</span>
+              </a>
+            </li>
+            
+          </ul>
+          
       </div>
     </div>
     <nav
@@ -103,19 +134,6 @@ const Header = props => (
             }}
           >
             CV
-          </button>
-        </li>
-        <li>
-          <button
-            onClick={() => {
-              props.onOpenArticle('contact')
-            }}
-            style={{
-              fontFamily: 'Fira Mono, monospace',
-              fontWeight: '200',
-            }}
-          >
-            Connect
           </button>
         </li>
       </ul>

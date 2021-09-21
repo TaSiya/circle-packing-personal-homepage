@@ -1,9 +1,8 @@
 {
-  "Title": "Aditya Ketkar | Personal Webpage",
-  "Name": "Aditya Ketkar",
+  "Title": "Siya's portfolio",
+  "Name": "Siyanda Makhalima",
   "Description": [
-    "SDE @ Microsoft. Recent graduate from BITS Pilani. Passionate about Space Tech, Sports and Startups.",
-    "I grab every chance I get to travel, learn and create."
+    " My passion and interest  in software development is the opportunity to create something that has the potential to be used by millions of people and change their lives."
   ],
   "MainImage": "https://i.imgur.com/yQZNGdm.jpg",
   "BackgroundURL": "",
@@ -58,7 +57,7 @@
       "link": "https://github.com/adityaketkar/circle-packing-personal-homepage"
     }
   ],
-  "showTalksAndBlogTab": true,
+  "showTalksAndBlogTab": false,
   "TalksAndBlogsTopContent": "I actively attend events to gain and share my knowledge. If you have an event/talk/panel which I can be a part of in any way (to 🗣 or 👂 or both), feel free to reach out at adityaketkar848[ at ]gmail[ dot ]com",
   "TalkIntroLine": "",
   "Talks": [
@@ -110,16 +109,10 @@
   ],
 
   "CVStartLine": "I am always open to collaborations with impactful work. Feel free to reach out if you want to work together 💪 ",
-  "CV": "https://www.visualcv.com/aditya-ketkar/",
-  "Resume": "https://drive.google.com/file/d/1zYV1lTNuGbMaB5-vnaGY5x-gnb9kAwWX/view?usp=sharing",
+  "Resume": "https://docs.google.com/document/d/19dGDLGpGm-5rZZJEKYYTGS6Bd5wVI-AbjcM8ekgromg/edit?usp=sharing",
 
-  "emailid": "mailto:adityaketkar848@gmail.com",
-  "linkedin": "https://linkedin.com/in/adityaketkar",
-  "wordpress": "https://technoshblog.wordpress.com/",
-  "facebook": "https://www.facebook.com/aditya.ketkar.520",
-  "github": "https://github.com/adityaketkar",
-  "instagram": "http://www.adityaketkar.me",
-  "twitter": "https://twitter.com/adityaketkar",
-  "medium": "https://ketkar.medium.com/",
-  "linktree": "https://linktr.ee/ketkar"
+  "emailid": "mailto:siyandamakhalima.1@gmail.com",
+  "twitter": "https://twitter.com/tasiya30629147",
+  "linkedin": "https://www.linkedin.com/in/siyanda-makhalima-3a35aa160/",
+  "github": "https://github.com/tasiya"
 }
