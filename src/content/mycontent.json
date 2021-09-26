@@ -4,111 +4,35 @@
   "Description": [
     " My passion and interest  in software development is the opportunity to create something that has the potential to be used by millions of people and change their lives."
   ],
-  "MainImage": "https://i.imgur.com/yQZNGdm.jpg",
+  "MainImage": "https://i.imgur.com/ImSmKGyb.jpg",
   "BackgroundURL": "",
 
-  "AboutImage": "https://i.imgur.com/5sOLND6.jpg",
+  "AboutImage": "",
   "AboutContent": [
-    "I’m a Software Engineer by day, a Table Tennis player by evening, a functional wantrepreneur by midnight and a hustler always.",
-    "If you can’t find me, it’s because I’m already cycling, off to a hike, or cheering for Verstappen",
-    "I am passionate about Space Technology and Human Psychology (though, never studied them formally). A die-hard fan of Elon Musk.",
-    "I love the way the concept of \"work\" has evolved over the past decades, and hence would love to travel and work together whenever I can."
+    ""
   ],
 
   "WorkContent": [
-    "I am currently SDE-1 at Microsoft. I also lead the tech team @ EdMad.co"
+    "I am currently employed by Uber5, company located in Cape Town. I work as a fullstack developer. I am also involved in some DevOps tasks."
   ],
-  "WorkImage": "https://i.imgur.com/BHt1YKg.png",
-  "InternshipsStartLine": "Previously, I have interned with :",
-  "InternShips": [
-    {
-      "name": "Amazon India",
-      "link": "#"
-    },
-    {
-      "name": "North-Eastern Space Application Center (ISRO) ↗",
-      "link": "https://drive.google.com/file/d/1fMoF7gUfsow8BxTIK7I7jf9wmq9v7wfq/view"
-    },
-    {
-      "name": "Computer Vision Center, Universitat Autonoma de Barcelona  ↗",
-      "link": "https://drive.google.com/file/d/1H9H4ja9TgpxYf4QxSfQH2bCZWyAFYwlC/view?usp=sharing"
-    }
-  ],
-  "ProjectsStartLine": "Some of my other works can be found here :",
+  "WorkImage": "",
+  "InternshipsStartLine": "",
+  "InternShips": [],
+  "ProjectsStartLine": "These are the projects I have worked on. Some are mine and some I contributed:",
   "Projects": [
     {
-      "name": "EdMad  ↗",
-      "link": "https://edmad.co"
-    },
-    {
-      "name": "DelOr  ↗",
-      "link": "https://bitsdelor.wixsite.com/delor"
-    },
-    {
-      "name": "EisenList  ↗",
-      "link": "https://github.com/adityaketkar/eisenlist"
-    },
-    {
-      "name": "Alexa Music Companion  ↗",
-      "link": "https://medium.com/@ketkaraditya/hey-alexa-meet-music-1f7319750af7"
-    },
-    {
-      "name": "Gatsby Personal Webpage  ↗",
-      "link": "https://github.com/adityaketkar/circle-packing-personal-homepage"
+      "name": "",
+      "link": ""
     }
   ],
   "showTalksAndBlogTab": false,
   "TalksAndBlogsTopContent": "I actively attend events to gain and share my knowledge. If you have an event/talk/panel which I can be a part of in any way (to 🗣 or 👂 or both), feel free to reach out at adityaketkar848[ at ]gmail[ dot ]com",
   "TalkIntroLine": "",
-  "Talks": [
-    {
-      "talkTitle": "Front End Patterns for ⚡ Performance",
-      "talkMetadata": "@ Microsoft, March 2021",
-      "talkDescription": "A live and interactive deep dive into frontend-performance optimization with patterns like CSR, SPAs, SSR, SSG, ISG etc (👻). A comparative study of technologies behind Amazon, Gmail, Netflix along with some quick wins for perf improvements",
-      "links": [
-        {
-          "url": "https://drive.google.com/file/d/13yhcpI_CwCU0np_tzTAUJGNci4hSGme3/view?usp=sharing",
-          "linkTitle": "Slides (pdf) ↗"
-        },
-        {
-          "url": "https://drive.google.com/file/d/19J08czyywp7JCioK8eDQ2Li83zW3bc3C/view?usp=sharing",
-          "linkTitle": "Slides with videos (pptx)  ↗"
-        }
-      ]
-    },
-    {
-      "talkTitle": "Resume Drafting 101",
-      "talkMetadata": "@ EdMad, July 2020",
-      "talkDescription": "Zero to hero in drafting and maintaining a killer resume, all in 30 mins. A talk for final and pre-final year students and people looking to up their resume game 💪",
-      "links": [
-        {
-          "url": "https://drive.google.com/file/d/19vIO2utgN8zpioxbrRW8TtXIiHBBBTbk/view?usp=sharing",
-          "linkTitle": "Slides  ↗"
-        }
-      ]
-    }
-  ],
+  "Talks": [],
   "BlogsIntroLine": "Here are some of my blog posts you might enjoy : ",
-  "Blogs": [
-    {
-      "blogTitle": "Hey Alexa, meet Music 🎵",
-      "link": "https://medium.com/@ketkaraditya/hey-alexa-meet-music-1f7319750af7"
-    },
-    {
-      "blogTitle": "7 actionable steps to ace your coding interview 👩‍💻",
-      "link": "https://www.linkedin.com/pulse/7-actionable-steps-ace-your-coding-interview-aditya-ketkar?trk=public_profile_article_view"
-    },
-    {
-      "blogTitle": "Tech Interview Prep Series 👨‍💼",
-      "link": "https://edmad.co/blog"
-    },
-    {
-      "blogTitle": "Jagriti Yatra Series 🚂 🌎",
-      "link": "https://ketkar.medium.com/jagrati-yatra-day-1-d30725cf8f71"
-    }
-  ],
+  "Blogs": [],
 
-  "CVStartLine": "I am always open to collaborations with impactful work. Feel free to reach out if you want to work together 💪 ",
+  "CVStartLine": " ",
   "Resume": "https://docs.google.com/document/d/19dGDLGpGm-5rZZJEKYYTGS6Bd5wVI-AbjcM8ekgromg/edit?usp=sharing",
 
   "emailid": "mailto:siyandamakhalima.1@gmail.com",

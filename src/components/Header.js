@@ -72,6 +72,14 @@ const Header = props => (
             </li>
             
           </ul>
+
+          <a 
+            target="_blank"
+            href=""
+            className="icon fa-paperclip"
+          >
+            Resume
+          </a>
           
       </div>
     </div>
