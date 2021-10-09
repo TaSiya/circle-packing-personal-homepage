@@ -9,20 +9,59 @@
 
   "AboutImage": "",
   "AboutContent": [
+    "I am a fullstack developer who is (always looking for issues to resolve without being told). I mainly code in Javascript and use ReactJs framework for the frontend. I have more experience working in the backend but can also work on the frontend as long there is a design :)",
+    "I started my career in 2019 working for a startup called Uber5 in Cape Town. In the company I was doing almost everything from backend to frontend and also some Devops. I have experience working with React native and wordpress.",
     ""
   ],
 
   "WorkContent": [
-    "I am currently employed by Uber5, company located in Cape Town. I work as a fullstack developer. I am also involved in some DevOps tasks."
+    "These are the projects I have worked on. Some are mine and some are projectes I freelance on:"
+  ],
+  "WorkSections": [
+    {
+      "Personal": [
+        {
+          "name": "Farmers to hunters",
+          "url": "https://f2h.co.za/",
+          "github":"https://github.com/tasiya",
+          "role": "Maintaing the website and handling all the admin tasks",
+          "type": "wordpress",
+          "mine": false
+        }
+      ],
+      "Work": [
+        {
+          "name": "Farmers to hunters",
+          "url": "https://f2h.co.za/",
+          "github":"https://github.com/tasiya",
+          "role": "Maintaing the website and handling all the admin tasks",
+          "type": "wordpress",
+          "mine": false
+        }
+      ],
+      "Freelance": [
+        {
+          "name": "Farmers to hunters",
+          "url": "https://f2h.co.za/",
+          "github":"https://github.com/tasiya",
+          "role": "Maintaing the website and handling all the admin tasks",
+          "type": "wordpress",
+          "mine": false
+        }
+      ]
+    }
   ],
   "WorkImage": "",
   "InternshipsStartLine": "",
   "InternShips": [],
-  "ProjectsStartLine": "These are the projects I have worked on. Some are mine and some I contributed:",
+  "ProjectsStartLine": "",
   "Projects": [
     {
-      "name": "",
-      "link": ""
+      "name": "Farmers to hunters",
+      "link": "https://f2h.co.za/",
+      "role": "Maintaing the website and handling all the admin tasks",
+      "type": "wordpress",
+      "mine": false
     }
   ],
   "showTalksAndBlogTab": false,
@@ -31,12 +70,24 @@
   "Talks": [],
   "BlogsIntroLine": "Here are some of my blog posts you might enjoy : ",
   "Blogs": [],
-
   "CVStartLine": " ",
   "Resume": "https://docs.google.com/document/d/19dGDLGpGm-5rZZJEKYYTGS6Bd5wVI-AbjcM8ekgromg/edit?usp=sharing",
-
-  "emailid": "mailto:siyandamakhalima.1@gmail.com",
-  "twitter": "https://twitter.com/tasiya30629147",
-  "linkedin": "https://www.linkedin.com/in/siyanda-makhalima-3a35aa160/",
-  "github": "https://github.com/tasiya"
+  "icons": [
+    {
+      "label": "Twitter",
+      "icon":  "fa-twitter",
+      "link": "https://twitter.com/tasiya30629147"
+    },
+    {
+      "label": "Github",
+      "icon":  "fa-github",
+      "link": "https://github.com/tasiya"
+    },
+    {
+      "label": "Linkedin",
+      "icon":  "fa-linkedin",
+      "link": "https://www.linkedin.com/in/siyanda-makhalima-3a35aa160/"
+    }
+  ]
+  
 }

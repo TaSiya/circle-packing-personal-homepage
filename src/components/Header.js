@@ -1,6 +1,7 @@
 import PropTypes from 'prop-types'
 import React from 'react'
 import JSONData from '../content/mycontent.json'
+import Icons from "./icons"
 
 const Header = props => (
   <header id="header" style={props.timeout ? { display: 'none' } : {}}>
@@ -17,14 +18,14 @@ const Header = props => (
     </div>
     <div className="content backdrop-blur">
       <div className="inner backdrop-blur">
-        <h1
+        <h2
           style={{
             fontFamily: 'Open Sans, sans-serif',
             fontWeight: '300',
           }}
         >
           {JSONData.Name}
-        </h1>
+        </h2>
         ____
         <p>
           {JSONData.Description.map(item => {
@@ -42,44 +43,15 @@ const Header = props => (
             )
           })}
         </p>
-        <ul className="icons">
-            <li>
-              <a
-                target="_blank"
-                href={JSONData.twitter}
-                className="icon fa-twitter"
-              >
-                <span className="label">Twitter</span>
-              </a>
-            </li>
-            <li>
-              <a
-                target="_blank"
-                href={JSONData.github}
-                className="icon fa-github"
-              >
-                <span className="label">GitHub</span>
-              </a>
-            </li>
-            <li>
-              <a
-                target="_blank"
-                href={JSONData.linkedin}
-                className="icon fa-linkedin"
-              >
-                <span className="label">Linkedin</span>
-              </a>
-            </li>
-            
-          </ul>
+        <Icons icons={JSONData.icons}/>
 
-          <a 
-            target="_blank"
-            href=""
-            className="icon fa-paperclip"
-          >
-            Resume
-          </a>
+        <a 
+          target="_blank"
+          href=""
+          className="icon fa-paperclip"
+        >
+          Resume
+        </a>
           
       </div>
     </div>
@@ -131,19 +103,7 @@ const Header = props => (
             </button>
           </li>
         )}
-        <li>
-          <button
-            onClick={() => {
-              props.onOpenArticle('about')
-            }}
-            style={{
-              fontFamily: 'Fira Mono, monospace',
-              fontWeight: '200',
-            }}
-          >
-            CV
-          </button>
-        </li>
+        
       </ul>
     </nav>
   </header>
