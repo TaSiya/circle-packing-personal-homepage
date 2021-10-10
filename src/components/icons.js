@@ -4,8 +4,8 @@ const Icons = ({icons}) => {
   
   const iconsDisplay = <ul className="icons">
       {
-        icons.map((icon) => (
-          <li>
+        icons.map((icon, idx) => (
+          <li key={idx}>
             <a
               target="_blank"
               href={icon.link}

@@ -19,46 +19,50 @@
   ],
   "WorkSections": [
     {
-      "Personal": [
+      "name": "personal",
+      "label": "Personal projects",
+      "projects": [
         {
           "name": "Personal project",
           "url": "https://f2h.co.za/",
           "github":"https://github.com/tasiya",
           "role": "Maintaing the website and handling all the admin tasks",
-          "type": "wordpress"
+          "type": "wordpress",
+          "thumbnail": "...",
+          "description": ""
         }
-      ],
-      "Work": [
+      ]
+    },
+    {
+      "name": "work",
+      "label": "Company projects",
+      "info": "Projects allowed to show",
+      "projects": [
         {
           "name": "Work",
           "url": "https://f2h.co.za/",
           "github":"https://github.com/tasiya",
           "role": "Maintaing the website and handling all the admin tasks",
-          "type": "wordpress"
+          "type": "wordpress",
+          "thumbnail": "...",
+          "description": ""
         }
-      ],
-      "Freelance": [
+      ]
+    },
+    {
+      "name": "freelance",
+      "label": "Freelance projects",
+      "projects": [
         {
           "name": "Freelance",
           "url": "https://f2h.co.za/",
           "github":"https://github.com/tasiya",
           "role": "Maintaing the website and handling all the admin tasks",
-          "type": "wordpress"
+          "type": "wordpress",
+          "thumbnail": "...",
+          "description": ""
         }
       ]
-    }
-  ],
-  "WorkImage": "",
-  "InternshipsStartLine": "",
-  "InternShips": [],
-  "ProjectsStartLine": "",
-  "Projects": [
-    {
-      "name": "Farmers to hunters",
-      "link": "https://f2h.co.za/",
-      "role": "Maintaing the website and handling all the admin tasks",
-      "type": "wordpress",
-      "mine": false
     }
   ],
   "showTalksAndBlogTab": false,
