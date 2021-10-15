@@ -23,13 +23,13 @@
       "label": "Personal projects",
       "projects": [
         {
-          "name": "Personal project",
-          "url": "https://f2h.co.za/",
+          "title": "Mzatsi Slangs",
+          "url": "https://slangs.mzantsiapps.co.za",
           "github":"https://github.com/tasiya",
-          "role": "Maintaing the website and handling all the admin tasks",
-          "type": "wordpress",
+          "role": "Director",
+          "type": "react-native app",
           "thumbnail": "...",
-          "description": ""
+          "description": "App that gives you all the slangs used in outh Africa by mostly blacks and coloured people"
         }
       ]
     },
@@ -39,30 +39,20 @@
       "info": "Projects allowed to show",
       "projects": [
         {
-          "name": "Work",
-          "url": "https://f2h.co.za/",
-          "github":"https://github.com/tasiya",
-          "role": "Maintaing the website and handling all the admin tasks",
-          "type": "wordpress",
-          "thumbnail": "...",
-          "description": ""
+          "title": "DA Candidate Selection System (DACSS)",
+          "url": "https://apply.voteda.org",
+          "github":"#",
+          "role": "Maintaing, fixing bugs and also implement new features",
+          "type": "Reactjs",
+          "thumbnail": "",
+          "description": "DA vote selection ssytem"
         }
       ]
     },
     {
       "name": "freelance",
       "label": "Freelance projects",
-      "projects": [
-        {
-          "name": "Freelance",
-          "url": "https://f2h.co.za/",
-          "github":"https://github.com/tasiya",
-          "role": "Maintaing the website and handling all the admin tasks",
-          "type": "wordpress",
-          "thumbnail": "...",
-          "description": ""
-        }
-      ]
+      "projects": []
     }
   ],
   "showTalksAndBlogTab": false,
