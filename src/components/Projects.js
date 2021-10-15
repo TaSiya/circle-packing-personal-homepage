@@ -4,7 +4,7 @@ const Projects = ({project}) => {
   console.log("project", project)
   return (
     <div>
-      Here we go :)
+    
     </div>
   )
 }
