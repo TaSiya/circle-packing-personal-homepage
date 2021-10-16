@@ -28,7 +28,25 @@
           "github":"https://github.com/tasiya",
           "role": "Director",
           "type": "react-native app",
-          "thumbnail": "...",
+          "thumbnail": "https://i.imgur.com/ImSmKGyb.jpg",
+          "description": "App that gives you all the slangs used in outh Africa by mostly blacks and coloured people"
+        },
+        {
+          "title": "Mzantsi Slangs",
+          "url": "https://slangs.mzantsiapps.co.za",
+          "github":"https://github.com/tasiya",
+          "role": "Director",
+          "type": "react-native app",
+          "thumbnail": "https://i.imgur.com/ImSmKGyb.jpg",
+          "description": "App that gives you all the slangs used in outh Africa by mostly blacks and coloured people"
+        },
+        {
+          "title": "Mzantsi Slangs",
+          "url": "https://slangs.mzantsiapps.co.za",
+          "github":"https://github.com/tasiya",
+          "role": "Director",
+          "type": "react-native app",
+          "thumbnail": "https://i.imgur.com/ImSmKGyb.jpg",
           "description": "App that gives you all the slangs used in outh Africa by mostly blacks and coloured people"
         }
       ]
@@ -44,7 +62,7 @@
           "github":"#",
           "role": "Maintaing, fixing bugs and also implement new features",
           "type": "Reactjs",
-          "thumbnail": "",
+          "thumbnail": "https://i.imgur.com/ImSmKGyb.jpg",
           "description": "DA vote selection ssytem"
         }
       ]
