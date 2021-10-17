@@ -47,7 +47,7 @@ const Header = props => (
 
         <a 
           target="_blank"
-          href=""
+          href={JSONData.resume}
           className="icon fa-paperclip"
         >
           Resume
