@@ -17,7 +17,7 @@ const Projects = ({project}) => {
           
         </div>
         <div className="card-body" style={{paddingTop: 0}}>
-          <a href={url} className="card-link">Demo</a>
+          {url && <a href={url} className="card-link">Demo</a>}
           {github !== "#" ? <a href={github} className="icon fa-github card-link"> Code</a> : ''}
         </div>
       </div>
