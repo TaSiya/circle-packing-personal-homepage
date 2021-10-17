@@ -1,6 +1,6 @@
 {
   "Title": "Siya's portfolio",
-  "Name": "Siyanda Makhalima",
+  "Name": "Software Developer (Web)",
   "Description": [
     " My passion and interest  in software development is the opportunity to create something that has the potential to be used by millions of people and change their lives."
   ],
@@ -20,34 +20,25 @@
   "WorkSections": [
     {
       "name": "personal",
-      "label": "Personal projects",
+      "label": "Personal and contribution projects",
       "projects": [
         {
-          "title": "Mzatsi Slangs",
-          "url": "https://slangs.mzantsiapps.co.za",
-          "github":"https://github.com/tasiya",
-          "role": "Director",
-          "type": "react-native app",
-          "thumbnail": "https://i.imgur.com/ImSmKGyb.jpg",
-          "description": "App that gives you all the slangs used in outh Africa by mostly blacks and coloured people"
+          "title": "Auth2 Provider middleware",
+          "url": "",
+          "github":"https://github.com/Uber5/oauth2-provider-middleware",
+          "role": "Contributor",
+          "type": "Javascript",
+          "thumbnail": "",
+          "description": "We built this from scratch for the middlware for Uber5 OAuth2 provider. But this can be used for any OAuth2 provider since we followed OAuth2 Spec"
         },
         {
-          "title": "Mzantsi Slangs",
-          "url": "https://slangs.mzantsiapps.co.za",
-          "github":"https://github.com/tasiya",
-          "role": "Director",
-          "type": "react-native app",
-          "thumbnail": "https://i.imgur.com/ImSmKGyb.jpg",
-          "description": "App that gives you all the slangs used in outh Africa by mostly blacks and coloured people"
-        },
-        {
-          "title": "Mzantsi Slangs",
-          "url": "https://slangs.mzantsiapps.co.za",
-          "github":"https://github.com/tasiya",
-          "role": "Director",
-          "type": "react-native app",
-          "thumbnail": "https://i.imgur.com/ImSmKGyb.jpg",
-          "description": "App that gives you all the slangs used in outh Africa by mostly blacks and coloured people"
+          "title": "React PKCE",
+          "url": "",
+          "github":"https://github.com/Uber5/react-pkce",
+          "role": "Contributor",
+          "type": "reactjs",
+          "thumbnail": "",
+          "description": "This zero-dependency package enables React applications to use an OAuth2 provider for authentication. The OAuth2 provider must support the PKCE Spec."
         }
       ]
     },
@@ -55,17 +46,7 @@
       "name": "work",
       "label": "Company projects",
       "info": "Projects allowed to show",
-      "projects": [
-        {
-          "title": "DA Candidate Selection System (DACSS)",
-          "url": "https://apply.voteda.org",
-          "github":"#",
-          "role": "Maintaing, fixing bugs and also implement new features",
-          "type": "Reactjs",
-          "thumbnail": "https://i.imgur.com/ImSmKGyb.jpg",
-          "description": "DA vote selection ssytem"
-        }
-      ]
+      "projects": []
     },
     {
       "name": "freelance",
